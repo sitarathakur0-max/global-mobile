@@ -1,0 +1,6 @@
+{
+  "name": "Global Mobile Parts Peshawar",
+  "description": "Global Mobile Parts Peshawar, located in Bilour Plaza, Saddar Cantt, offers mobile parts and repair-related services in Peshawar. Inquire for parts availability and repair assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
